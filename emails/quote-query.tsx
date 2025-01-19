@@ -24,9 +24,9 @@ const QuoteFormResponse: React.FC = () => {
         <Body className="bg-gray-100 font-sans">
           <Container className="mx-auto p-4 max-w-2xl">
             <Section className="bg-white rounded-lg shadow-lg p-6">
-              <Link href="https://twotoned.com.au">
+              {/* <Link href="https://twotoned.com.au">
                 <Img src="https://twotoned.com.au/wp-content/uploads/2025/01/Qubered-01.png" className="w-40" alt="LOGO Placeholder"></Img>
-              </Link>
+              </Link> */}
     
               <Text className="text-2xl font-bold text-gray-800 mb-6">
                 Hey! Thanks for reaching out, NAME!
